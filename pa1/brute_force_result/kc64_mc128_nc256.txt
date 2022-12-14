@@ -1,0 +1,29 @@
+Description:	my blislab 
+
+Size: 31	Gflop/s: 7.71
+Size: 32	Gflop/s: 8.76
+Size: 96	Gflop/s: 15.4
+Size: 97	Gflop/s: 12.9
+Size: 127	Gflop/s: 20.5
+Size: 128	Gflop/s: 20.9
+Size: 129	Gflop/s: 11.7
+Size: 191	Gflop/s: 19.6
+Size: 192	Gflop/s: 20
+Size: 229	Gflop/s: 17.7
+Size: 255	Gflop/s: 20.6
+Size: 256	Gflop/s: 20.9
+Size: 257	Gflop/s: 15.4
+Size: 319	Gflop/s: 19.8
+Size: 320	Gflop/s: 20.9
+Size: 321	Gflop/s: 16.6
+Size: 417	Gflop/s: 18.5
+Size: 479	Gflop/s: 19.6
+Size: 480	Gflop/s: 19.8
+Size: 511	Gflop/s: 20.7
+Size: 512	Gflop/s: 20.7
+Size: 639	Gflop/s: 21
+Size: 640	Gflop/s: 21.2
+Size: 767	Gflop/s: 20.9
+Size: 768	Gflop/s: 21.2
+Size: 769	Gflop/s: 18.9
+GeoMean  = 17.61

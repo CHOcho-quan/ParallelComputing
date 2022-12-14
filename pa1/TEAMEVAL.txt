@@ -1,0 +1,58 @@
+                    CSE 260, Parallel Computation
+                            (Fall 2022)
+           Department of Computer Science and Engineering 	
+                 University of California, San Diego 	
+
+
+		Team Self Evaluation Form, Assignment #1
+
+Each team must submit one copy of this self evaluation form. 
+The members of each team should discuss how they
+worked together and what to write for the evaluation.
+If you worked alone leave column B blank
+
+(1) List the names of your team members:
+
+A:
+Quan Luo
+ 
+B:
+Zhongrui Cao
+ 
+ 
+(2) Estimate how much time each team member devoted to this project, in HOURS.
+
+                            A 	        B
+meetings                    1		    1
+coding                      10		    6
+writeup                     2           6
+planning (alone)            2           2
+total (including meetings)  15          15
+
+
+(3) Discuss the following.
+(a) If you worked in a team, what were the major responsibilities
+    of each team member?
+A: Implement packing & kernels & coding algorithms.
+B: Parameter tuning, python scripts for graphing, optimization.
+(b) Did you complete the assignment?
+Yes
+(c) What were your major strengths and weaknesses in doing this
+    assignment (individually or in a team)?
+    If in a team, also discuss how your team worked together.
+A: Strength - coding. Weakness - understanding ARM intrinsics.
+B: Strength - coding. Weakness - understanding algorithm, ARM intrinsics.
+We discuss several times and decide what's the next step. Use git to collaborate. Development on personal branch and pull request.
+(d) What  lessons did you learn from these events.
+A: ARM Architecture & SVE SIMD Instructions.
+B: Architecture, and how code performance heavily depend on it.
+(e) If in a team, whether and how you plan to change the way
+    your work together .
+A: We can meet more and discuss more.
+B: We could meet in person more and work together more.
+(f) Anything else that comes to mind.
+A: Nothing else.
+B: Good stuff.
+(g) What suggestions do you have to improve this assignment?
+A: If there's a programmable cache for us to explicitly move data into it, the assignment would be better.
+B: more instructions on optimization
